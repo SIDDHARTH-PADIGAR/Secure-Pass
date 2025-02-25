@@ -37,4 +37,5 @@ go run main.go
 ## 📌 Future Plans  
 - **🖥 GUI Integration** using Fyne for a user-friendly experience.  
 - **🌐 Cloud Sync** to securely store passwords across devices.  
-- **🔓 Biometric Authentication** for enhanced security.  
+- **🔓 Biometric Authentication** for enhanced security.
+- **🛡️ Breach Monitoring** Checks if stored passwords have been compromised in known data breaches.  
